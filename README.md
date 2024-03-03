@@ -1,3 +1,4 @@
 TEST
 foo
 foo
+foo
